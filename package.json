@@ -1,6 +1,6 @@
 {
   "name": "vite-lit-project",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/my-vite-element.es.js",
   "exports": {
     ".": "./dist/my-vite-element.es.js"
