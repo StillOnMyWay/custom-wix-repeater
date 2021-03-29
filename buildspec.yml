@@ -14,4 +14,5 @@ artifacts:
   files:
     - "**/*"
   base-directory: dist
+  name: MyViteLitWixApp
   discard-paths: no
